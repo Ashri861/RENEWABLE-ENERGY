@@ -40,7 +40,7 @@ An interactive 5-page Power BI executive dashboard analyzing multi-decade clean 
   * Year-over-Year (YoY) growth velocity and latest-year benchmark KPI cards (`Latest Solar`, `Latest Wind`, `Latest Renewable`).
 * **Custom Visuals & UI/UX:**
   * **Scale vs. Momentum (Water Cup Visual):** Dual-metric comparative visual mapping cumulative volume (vessel height) against annualized growth rate (water fill level).
-  * **Animated Timeline (Play Axis):** Interactive time-series playback tracking generation shifts from 2000 onward.
+  * **Animated Timeline (Play Axis):** Interactive time-series playback tracking generation shifts from the year 2000 onward.
   * **High-Contrast Dark Theme:** Custom dark-mode canvas with cyan/blue visual accents, custom report tooltips, and grouped element anchoring.
 
 ---
