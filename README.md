@@ -1,5 +1,8 @@
 # India's Renewable Energy Transition (Power BI Executive Dashboard)
 
+For centuries, India has relied heavily on conventional energy sources such as coal and petroleum to meet its energy needs.
+But these resources are finite and take millions of years to form. As energy demand continues to grow, depending heavily on fossil fuels leads to long-term sustainability challenges.
+
 An interactive 4-page Power BI executive dashboard analyzing multi-decade clean energy generation, capacity mix, and growth velocity across **Hydro, Wind, Solar, and Bioenergy** in India (2000–Present).
 
 ---
