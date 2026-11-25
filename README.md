@@ -1,6 +1,6 @@
 # India's Renewable Energy Transition (Power BI Executive Dashboard)
 
-An interactive 5-page Power BI executive dashboard analyzing multi-decade clean energy generation, capacity mix, and growth velocity across **Hydro, Wind, Solar, and Bioenergy** in India (2000–Present).
+An interactive 4-page Power BI executive dashboard analyzing multi-decade clean energy generation, capacity mix, and growth velocity across **Hydro, Wind, Solar, and Bioenergy** in India (2000–Present).
 
 ---
 
